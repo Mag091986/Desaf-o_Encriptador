@@ -98,7 +98,7 @@ function ocultar(){
 }
 
 function mostrar(){
-    salidaTexto.style.background = "#FFF no-repeat center url(imagenes/notexto.png)";
+    salidaTexto.style.background = "#FFF no-repeat center url(./assets/notexto.png)";
     seccionTexto1.style.display = "";
     seccionTexto2.style.display = "";
     btnCopiar.style.display = "none";
